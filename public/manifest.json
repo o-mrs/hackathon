@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "NASA PWA",
+  "name": "The ugliest PWA in the world",
   "icons": [
     {
       "src": "favicon.ico",
